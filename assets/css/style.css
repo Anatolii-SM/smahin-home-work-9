@@ -67,18 +67,17 @@ a {
 
 .header {
   background-color: var(--color-gray-light);
-  min-height: 700px;
-  padding-top:  80px;
+  padding-top:  152px;
   padding-bottom: 140px;
 }
 
 .navbar {
-  margin-bottom: 162px; 
+  margin-bottom: 119px; 
 }
 
 .navbar-list {
   display: flex;
-  gap: 45px;
+  gap: 51px;
 }
 .navbar__item {
 }
@@ -96,10 +95,10 @@ a {
   max-width: var(--conteiner-secondary);
 }
 .hero__title {
-  margin-bottom: 60px;
+  margin-bottom: 39px;
 }
 .hero__description {
-  margin-bottom: 65px;
+  margin-bottom: 58px;
   color: var(--color-secondary);
 }
 .hero__btn {
