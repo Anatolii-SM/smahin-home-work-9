@@ -64,7 +64,7 @@ a {
   border: 0;
 
   overflow: hidden;
-  clip: rect(0, 0, 0, 0)
+  clip: rect(0, 0, 0, 0);
   clip-path: inset(100%);
   white-space: nowrap; 
   visibility: hidden;
@@ -193,16 +193,8 @@ a {
 .process__title {
   margin-bottom: 36px;
 }
-
-.process__description {
-
-}
-
 .video {
   background-color: var(--color-gray-light);
-}
-
-.video__title {
 }
 
 .video__iframe {
